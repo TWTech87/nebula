@@ -8,3 +8,4 @@ pyspellchecker
 nvidia-ml-py3
 psutil
 prompt-toolkit
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
